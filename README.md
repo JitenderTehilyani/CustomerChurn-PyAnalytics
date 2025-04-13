@@ -74,6 +74,5 @@ Telecom-Churn-Analysis/
 
 <p>
 <b>Jitender Tehilyani</b>  
-<i>Replace with your GitHub name or portfolio link</i>
 </p>
 
